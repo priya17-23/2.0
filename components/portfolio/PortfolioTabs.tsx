@@ -371,7 +371,7 @@ export default function PortfolioTabs() {
                   LinkedIn
                 </a>
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/priya17-23/2.0"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 backdrop-blur-xl px-4 py-3 text-slate-200 hover:border-white/40 hover:bg-white/10 shadow-lg"
