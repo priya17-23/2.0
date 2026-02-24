@@ -69,11 +69,19 @@ const PROJECTS = [
     live: "#",
   },
   {
+    title: "AI Yoga Guide App 2.0",
+    description: "Cross-platform app guiding users through yoga with AI assistance.",
+    tech: "Cross-platform, AI",
+    features: ["AI-guided poses", "Health domain", "Cross-platform"],
+    github: "https://zen-form-ai.lovable.app/",
+    live: "#",
+  },
+  {
     title: "AI Yoga Guide App",
     description: "Cross-platform app guiding users through yoga with AI assistance.",
     tech: "Cross-platform, AI",
     features: ["AI-guided poses", "Health domain", "Cross-platform"],
-    github: "https://github.com",
+    github: "https://zen-form-ai.lovable.app/",
     live: "#",
   },
   {
@@ -359,10 +367,10 @@ export default function PortfolioTabs() {
                   className="flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 backdrop-blur-xl px-4 py-3 text-slate-200 hover:border-white/40 hover:bg-white/10 shadow-lg"
                 >
                   <Mail className="h-5 w-5" />
-                  your.email@example.com
+                  collab.priyasingh@gmail.com
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourprofile"
+                  href="https://www.linkedin.com/in/priyansingh/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 backdrop-blur-xl px-4 py-3 text-slate-200 hover:border-white/40 hover:bg-white/10 shadow-lg"
@@ -381,7 +389,7 @@ export default function PortfolioTabs() {
                 </a>
                 <span className="flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 backdrop-blur-xl px-4 py-3 text-slate-300 shadow-lg">
                   <Phone className="h-5 w-5" />
-                  Phone (optional)
+                  Phone (+91 9663947554)
                 </span>
               </div>
             </motion.section>
