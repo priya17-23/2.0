@@ -389,7 +389,7 @@ export default function PortfolioTabs() {
                 </a>
                 <span className="flex items-center gap-2 rounded-lg border border-white/20 bg-white/5 backdrop-blur-xl px-4 py-3 text-slate-300 shadow-lg">
                   <Phone className="h-5 w-5" />
-                  Phone (+91 9663947554)
+                  Phone (+91 XXXXXXXXXX)
                 </span>
               </div>
             </motion.section>
