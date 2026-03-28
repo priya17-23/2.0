@@ -43,6 +43,25 @@ const SKILLS = {
 
 const PROJECTS = [
   {
+  title: "Analytics Hub with CSV",
+  description:
+    "Full-stack CSV analysis dashboard with visualization, file upload, and insights.",
+  tech: "Flask, Pandas, Plotly, HTML, CSS, JS",
+  features: ["CSV Upload", "Data Visualization", "Dashboard", "Charts"],
+  github: "https://github.com/priya17-23/c4",
+  live: "https://c4-pb4z.onrender.com/",
+},
+{
+  title: "Foldex – Smart File Organizer",
+  description:
+    "Python Windows app with auto-zip, file categorization, and offline chat assistant.",
+  tech: "Python, Windows",
+  features: ["Auto-zip", "File categorization", "Offline chat assistant"],
+  github: "https://github.com",
+  live: "#",
+},
+
+  {
     title: "Real-time Chat Application",
     description:
       "Full-stack group chat with rooms, file sharing, and real-time messaging.",
